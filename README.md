@@ -1,2 +1,5 @@
-# Portfolio
-My portfolio that have professional details and skill set. Resume available to download
+#Porfolio
+
+- Updated resume is available to download
+- Highlights my basic skill set
+- More recent skill sets are available in my resume
